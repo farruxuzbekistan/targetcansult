@@ -1,0 +1,914 @@
+@media only screen and (max-width: 1800px) {
+    .flat-about-us.style5 .box-about-us {
+        padding-right: 15px;
+        padding-left: 25px;
+    }
+}
+
+@media only screen and (max-width: 1366px) { 
+    .header-top.style5 {
+        padding: unset;
+    }
+}
+
+@media only screen and (max-width: 1199px) {
+    /* style1 */
+    .style1#header .nav-wrap {
+        margin-right: 15px;
+    }
+
+    .header-wrap .btn-quote {
+        display: none;
+    }
+
+    /* style2 */
+    .header-wrap.style2 .show-search,
+    .header-wrap.style2 .user-action {
+        display: none;
+    }
+
+    .nav-wrap.style2 {
+        margin-right: 0;
+    }
+
+    /* style3 */
+    .flat-services.style3 .flat-iconbox {
+        padding-top: 50px;
+    }
+
+    /* style4 */
+    .header-wrap.style4 .show-search {
+        margin: 22px 9px 22px 9px;
+    }
+
+    .user-action.style4 ul li {
+        padding: 0 7px;
+    }
+
+    /* style5 */
+    .header.style5 #mainnav > ul > li > a {
+        margin-right: 12px !important;
+    }
+
+    .flat-about-us.style5 .box-about-us {
+        padding-right: 15px;
+    }
+
+    .header-top.style5 {
+        padding: unset;
+    }
+
+    /* project detail */
+    .main-project-detail .imagebox.imagebox-project.style4.v1 {
+        width: 100%;
+    }
+
+    .main-project-detail .imagebox.imagebox-project.style4.v2 {
+        width: 50%;
+    }
+
+    /* Cart */
+    .cart-form table.shop-table tr td,
+    .cart-form table.shop-table tr th {
+        padding: unset !important;
+    }
+
+    .cart-form table.shop-table {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .wrap-content,
+    .content-wrap {
+        margin: unset;
+    }
+
+    #header.fixed-header #logo,
+    #logo {
+        margin-top: 0;
+    }
+
+    #header.style1,
+    #header.style3 {
+        background: #252525;
+    }
+
+    .flat-testimonials.style1,
+    .flat-row,
+    #footer .footer-widgets,
+    .flat-testimonials.style2 {
+        padding: 60px 0 60px !important;
+    }
+
+    /* style1 */
+    #header {
+        padding: 30px 0;
+        position: relative;
+    }
+
+    #header .mobile-button { 
+        display: block;
+    }
+
+    #header.fixed-header #logo {
+        margin-top: 0;
+    }
+
+    #header .header-wrap {
+        position: relative;
+    }
+
+    .top .flat-user-section,
+    #header .header-wrap .btn-quote,
+    .mainnav {
+        display: none;
+    }
+
+    .top .flat-custom-info {
+        text-align: center;
+    }
+
+    a.button-project,
+    a.button-contact,
+    a.button-started {
+        padding: 14px 10px 11px 10px;
+    }
+
+    .style1.flat-quote h2 {
+        font-size: 25px;
+    }
+
+    .wrap-introduce .content-introduce h3.title a {
+        line-height: 24px;
+        font-size: 25px;
+    }
+
+    .wrap-introduce .content-introduce {
+        width: 65%;
+    }
+
+    .wrap-introduce .wrap-experienced {
+        width: 35%;
+    }
+
+    .wrap-introduce .content-introduce p {
+        padding-right: 0px;
+    }
+
+    .flat-benefit.style1 .image-single img{
+        width: 100%;
+    }
+
+    #footer .footer-widgets .widget.widget-contact,
+    #footer .footer-widgets .widget.widget-services,
+    #footer .footer-widgets .widget.widget-subscribe {
+        margin-top: 20px;
+    }
+
+    .imagebox.imagebox-project-filter {
+        width: 50%;
+    }
+
+    #header.style1 #mainnav-mobi {
+        top: 85px;
+    }
+
+    /* style2 */
+    #header .header-wrap.style2 .show-search,
+    #header .header-wrap.style2 .user-action {
+        display: none;
+    }
+
+    .flat-slider .flat-services.style2 {
+        display: none;
+    }
+
+    .flat-slider .flat-services.style2 .iconbox-icon {
+        position: relative;
+        text-align: center;
+    }
+
+    .flat-slider .flat-services.style2 .iconbox-icon img {
+        width: 50px !important;
+        height: 50px !important;
+    }
+
+    #footer.style2 .widget-services,
+    #footer.style2 .widget-about{
+        width: 50%;
+    }
+
+    #footer.style2 .widget-social {
+        width: 100%;
+    }
+
+    .widget-social.style2 .social {
+        text-align: center !important;
+        padding: 0  ;
+    }
+
+    #header.style2 #mainnav-mobi {
+        top: 85px;
+    }
+
+    .flat-portfolio.portfolio-project .portfolio-filter {
+        margin-bottom: 30px;
+    }
+
+    .flat-projects .flat-title.style2 {
+        margin-bottom: 30px;
+    }
+
+    /* style3 */
+    .flat-whyus.style3 .flat-title {
+        margin-bottom: 40px;
+    }
+
+    #header.style3.fixed-header {
+        position: fixed;
+    }
+
+    #header .header-wrap.style3 .show-search {
+        display: none;
+    }
+
+    .flat-textbox.textbox-about-us .textbox-content {
+        margin-right: 0px !important;
+    }
+
+    .flat-testimonial-contact .flat-testimonials-images,
+    .flat-testimonial-contact .flat-contact-us,
+    .flat-textbox.textbox-service,
+    .flat-services.style3 .flat-iconbox {
+        width: 100% !important;
+    }
+
+    .imagebox.style3,
+    .flat-services.style3 .flat-iconbox .iconbox.iconbox-services {
+        width: 50% !important;
+    }
+
+    .flat-about-us.style3 .image-single {
+        text-align: left !important;
+    }
+
+    #header.style3 #mainnav-mobi {
+        top: 85px;
+    }
+
+    #flat-testimonials-slider .flex-control-thumbs {
+        margin: 0;
+    }
+
+    .flat-about-us.style5 .box-about-us {
+        padding: 0;
+    }
+
+    .flat-news.style3 {
+        padding-top: 60px;
+    }
+
+    /* style4 */
+    .user-action.style4 {
+        float: left;
+        margin-bottom: 18px;
+    }
+
+    .header-wrap.style4 .show-search {
+        display: none;
+    }
+
+    #header.style4 {
+        padding: 0;
+    }
+
+    .header-wrap.style4 {
+        top: 0px;
+        margin: 0 !important;
+    }
+
+    .top.style4 #logo {
+        padding-top: 40px;
+    }
+
+    #header.style4 .mobile-button {
+        right: 15px;
+    }
+
+     #header.style4 #mainnav-mobi {
+        top: 66px;
+    }
+
+    .flat-about-us .wrap-about-text.pd-top-80,
+    .flat-services.style4,
+    .flat-whyus.style4,
+    .flat-testimonial.style4,
+    .flat-news.style4 {
+        padding-top: 60px !important;
+    } 
+
+    .flat-two-col .flat-progres {
+        padding-top: 0px !important;
+    }
+
+    /* style5 */
+    .flat-whyus.style5,
+    .box-about-us.style5,
+    .flat-services.style5,
+    .flat-testimonials.style5 {
+        padding: 60px 0 !important;
+    }
+
+    .flat-team.style5,
+    .widget-footer.pd-top-80 {
+        padding-top: 60px !important;
+    }
+
+    .header-top.style5 {
+        padding: unset;
+    }
+    .top.style5 .flat-social {
+        text-align: right !important;
+    }
+
+    .header.style5 .wrap-action {
+        display: none;
+    }
+
+    .header.style5 #logo {
+        width: 100% !important;
+        margin-top: 0;
+    }
+
+    .one-of-three-col {
+        width: 50% !important;
+    }
+
+    .flat-about-us .style5.half-background {
+        height: 400px;
+        padding-right: 0;
+    }
+
+    .header.style5 .mobile-button {
+        right: 15px;
+    }
+
+    /* blog */
+    .post {
+        width: 50%;
+    }
+
+    /* blog detail */
+    .main-blog-details {
+        padding: 60px 0 !important;
+    }
+
+    /* shop */
+    .main-shop {
+        padding: 60px 0 !important;
+    }
+
+    .woocommerce.woocommerce-page ul.products li {
+        width: 33.333%;
+    }
+
+    /* shop detail */
+    .main-shop-detail {
+        padding: 60px 0 !important;
+    }
+
+    .woocommerce .product .images {
+        width: 100%;
+        text-align: center;
+    }
+
+    .woocommerce .product .summary,
+    .woocommerce-page .product .summary {
+        width: 100%;
+    }
+
+    .related.products ul.products li {
+        width: 50%;
+    }
+
+    .tab-content {
+        padding: 15px;
+    }
+
+    .woocommerce-page .description {
+        padding: 0;
+    }
+
+    .tab {
+        padding: 8px 15px 6px 15px;
+    }
+
+    .woocommerce-tabs #comments {
+        padding: 0 15px;
+    }
+
+    /* checkout */
+    .customer-detail,
+    .review-order {
+        width: 100%;
+        padding: 0 15px;
+    }
+
+    .main-checkout {
+        padding: 60px 0 !important;
+    }
+
+    .customer-detail .form-checkout {
+        padding: 0;
+    }
+    /* project */
+    .wrap-content.project-v1 .flat-projects {
+        padding: 60px 0 !important;
+    }
+
+    .wrap-content.project-v2 .flat-projects {
+        padding-top: 60px !important;
+    } 
+
+    /* project detail */
+    .content-wrap.main-project-detail {
+        padding-top: 60px !important;
+    }
+
+    .wrap-related-project {
+        margin-top: 30px;
+    }
+
+    .wrap-project-detail .sidebar-left,
+    .wrap-project-detail .project-content {
+        padding: 0 15px;
+    }
+
+    /* blog detail */
+    .post-wrap.blog-single {
+        width: 100% !important;
+        padding-right: 0;
+        margin-bottom: 30px;
+    }
+
+    .main-blog-details .sidebar {
+        width: 100%;
+        padding: 0;
+    }
+
+    /* Cart */
+    .woocommerce .cart-form,
+    .cart-collaterals,
+    .main-shopping-cart .actions .coupon {
+        width: 100% !important;
+    }
+
+    .woocommerce .cart-form {
+        padding-right: 15px !important;
+    }
+
+    .cart-collaterals .shop-table,
+    .cart-form table.shop-table {
+        width: 100%;
+    }
+
+    .wrap-update-cart {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .sidebar-left.sidebar-service {
+        padding-top: 60px !important; 
+    }
+
+    .wrap-service-detail.pd-top-80 {
+        padding-top: 40px !important;
+    }
+
+    .flat-faqs,
+    .flat-error,
+    .content-wrap.main-contact-page {
+        padding: 60px 0 !important;
+    }
+}
+
+@media only screen and (max-width: 765px) {
+    /* style1 */
+    .flat-slider.style1 .center-mobile {
+        text-align: center !important;
+    }
+
+    .wrap-introduce .content-introduce, 
+    .wrap-introduce .wrap-experienced {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    .wrap-introduce .wrap-experienced {
+        margin-top: 15px;
+    }
+
+    .flat-counter.style1 .counter {
+        margin-top: 10px;
+        margin-bottom: 15px;
+    }
+
+    .wrap-introduce .wrap-experienced img {
+        padding: 0 25%;
+    }
+
+    .flat-introduce .flat-counter {
+        padding-top: 10px !important;
+    }
+
+    .wrap-introduce .experienced {
+        padding: 5% 7% 0 7%;
+    }
+
+    .flat-quote.style1 .btn-quote {
+        text-align: left;
+    }
+
+    /* style2 */
+    #footer.style2 .widget-services,
+    #footer.style2 .widget-about,
+    #footer.style2 .widget-social,
+    .imagebox.imagebox-project-filter {
+        width: 100%;
+    }   
+
+    #footer.style2 .widget-services,
+    #footer.style2 .widget-about,
+    .widget-about.style2 .copyright,
+    .imagebox.imagebox-project-filter .imagebox-image {
+        margin: 0;
+    }
+
+    #footer.style2 .widget-about {
+        margin-top: 15px;
+    }
+
+    .flat-about-us.style2 .flat-textbox {
+        padding: 0;
+    }
+
+    #footer.style2 .widget-services,
+    #footer.style2 .widget-about {
+        text-align: center;
+    }
+
+    /* style3 */
+    .flat-slider.style3 .center-mobile {
+        text-align: center !important;
+    }
+
+    .flat-quote.style3 .wrap-icon-quote,
+    .imagebox.style3 {
+        width: 100% !important;
+    }
+
+    .flat-quote.style3 .btn-quote {
+        width: 100% !important;
+        text-align: left !important;
+    } 
+
+    .flat-form-contact-us .input-wrap-name,
+    .flat-form-contact-us .input-wrap-mail {
+        width: 100%;
+        padding: 0;
+    }
+
+    /* style4 */
+    .imagebox.imagebox-service.style4,
+    .imagebox.imagebox-project.style4 {
+        width: 50%;
+    }
+
+    .image-single.style4 {
+        text-align: center;
+    }
+
+    .flat-about-us .textbox.style4,
+    .iconbox.iconbox-whyus.style4 {
+        padding-right: 0px;
+    }
+
+    .top.style4 #logo {
+        width: 100% !important;
+        text-align: center;
+        padding: 25px 0 55px;
+    }
+
+    .top .flat-iconbox.style4 {
+        display: none;
+    }
+
+    .widget-footer .widget-logo-info,
+    .widget-footer .widget-recent-news.style4,
+    .widget-footer .widget-quick-link {
+        margin-bottom: 20px;
+    }
+
+    .widget-footer .widget-recent-news.style4,
+    .widget-footer .widget-quick-link {
+        margin-left:  0;
+    }
+
+    /* style5 */
+    .top.style5 .flat-custom-info,
+    .top.style5 .flat-social {
+        width: 100% !important;
+        text-align:center !important;
+    }
+
+    .style5.testimonial blockquote.testimonial-text,
+    .iconbox-whyus.iconbox.style5 {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .iconbox-whyus.iconbox.style5 {
+        margin-bottom: 15px;
+    }
+
+    .one-of-three-col {
+        width: 100% !important;
+    }
+
+    .flat-projects .flat-textbox.style5 {
+        width: 100%;
+        margin: 0;
+        padding-top: 25px;
+    }
+
+    .flat-projects.style5 .owl-nav .owl-prev,
+    .flat-projects.style5 .owl-nav .owl-next {
+        display: none;
+    }
+
+    /* contact us */
+    .wrap-contact-page .sidebar-right {
+        padding: 0;
+    }
+
+    .wrap-contact-page .flat-form-contact-us {
+        margin-bottom: 30px;
+        padding: 0;
+    }
+
+    /* shop */
+    .woocommerce.woocommerce-page ul.products li {
+        width: 50%;
+    }
+    
+    /* project detail */
+    .main-project-detail .imagebox.imagebox-project.style4,
+    .wrap-related-project .imagebox.imagebox-project.style4  {
+        width: 100% !important;
+    }
+
+    /* service detail */
+    .sidebar-left.sidebar-service,
+    .wrap-service-detail  {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+}
+
+@media (max-width: 991px) {
+    #header .container,
+    .flat-about-us.style2 .container,
+    .flat-quote.style1 .container,
+    .flat-quote.style3 .container,
+    .top.style4 .container {
+        max-width: 100%;
+    }
+}
+
+@media only screen and (max-width: 470px) {
+    /* style1 */
+    .top .flat-custom-info.style1 {
+        width: 100%;
+    }
+
+    .flat-custom-info ul.custom-info li {
+        margin: 0 !important;
+        display: block;
+    }
+
+    .flat-imagebox.imagebox-project .imagebox-content {
+        padding-left:  15px;
+    }
+
+    .style1.flat-quote h2 {
+        font-size: 16px;
+    }
+
+    .style1.flat-quote p {
+        font-size: 14px;
+    }
+
+    .flat-iconbox.iconbox-benefit .iconbox {
+        width: 100%;
+    }
+
+    .flat-introduce .flat-counter {
+        padding-top: 10px !important;
+    }
+
+    #footer .footer-widgets .widget.widget-contact,
+    #footer .footer-widgets .widget.widget-services,
+    #footer .footer-widgets .widget.widget-subscribe {
+        margin-top: 20px;
+    }
+
+    .wrap-introduce .wrap-experienced {
+        margin-top: 30px;
+    }
+
+    .flat-imagebox.imagebox-services .imagebox-content h5 {
+        margin: 0;
+    }
+
+    .wrap-introduce .wrap-experienced img {
+        padding: 0;
+    }
+    .wrap-introduce .experienced {
+        padding: 5% 7% 0 7%;
+    }
+
+    .testimonial.style1 .testimonial-author .author-info {
+        padding: 0;
+    }
+
+    /* style2 */
+    .flat-title.style2 {
+        margin-bottom: 30px;
+    }
+
+    .testimonials.style2 .author-info .list-star {
+        margin-bottom: 20px;
+    }
+
+    .testimonials.style2 blockquote.testimonial-text {
+        margin-bottom: 32px;
+    }
+
+    .flat-projects.style2 .portfolio-wrap,
+    .flat-about-us.style2 .flat-textbox {
+        padding: 0;
+    }
+
+    .flat-portfolio.portfolio-project .portfolio-filter li {
+        margin: 0 15px;
+    }
+
+    .widget-social.style2 .social li:last-child a {
+        margin-right: 0px;
+    }
+
+    /* style3 */
+    .flat-quote.style3 .icon-quote {
+        display: none;
+    }
+
+    .iconbox.iconbox-whyus.style3 {
+        padding-right: 0 !important;
+    }
+
+    .form-contact-us {
+        padding: 0 15px;
+    }
+
+    .flat-testimonial-contact .flat-contact-us .title {
+        font-size: 26px;
+    }
+
+    /* style4 */
+    .counter.style4 {
+        margin-bottom: 15px;
+    }
+
+    .imagebox.imagebox-service.style4,
+    .imagebox.imagebox-project.style4 {
+        width: 100%;
+    }
+
+    .textbox.style4 h2.heading {
+        font-size: 30px;
+    }
+
+    /* style5 */
+    .flat-about-us .style5.half-background {
+        height: 400px;
+    }
+
+    .flat-about-us.style5 .box-about-us {
+        padding-right: 0px;
+        padding-left: 0;
+    }
+
+    .one-of-three-col {
+        width: 100% !important;
+    }
+
+    .flat-projects .flat-textbox.style5 {
+        width: 100%;
+        margin: 0;
+        padding-top: 25px;
+    }
+
+    .textbox-project.style5 {
+        padding: 0 15px;
+    }
+
+    .flat-projects.style5 .owl-theme .owl-dots {
+        margin: 0 0 0 15px;
+    }
+
+    .flat-projects.style5 .owl-nav .owl-prev,
+    .flat-projects.style5 .owl-nav .owl-next {
+        display: none;
+    }
+
+    .iconbox.iconbox-service.style5 .iconbox-content {
+        padding: 0 15px;
+    }
+
+    /* Error page */
+    .flat-error .btn-prev,
+    .flat-error .btn-home {
+        padding: 13px 20px !important;
+    }
+
+    .flat-error .btn-prev {
+        margin-right: 0;
+    }
+
+    /* Blog */
+    .post {
+        width: 100%;
+    }
+
+    .main-content .post .post-border {
+        padding: 0;
+    }
+
+    /* Shop */
+    .woocommerce .woocommerce-result-count, 
+    .woocommerce-page .woocommerce-result-count {
+        width: 100%;
+        text-align: right;
+    }
+
+    .woocommerce .woocommerce-ordering, 
+    .woocommerce-page .woocommerce-ordering,
+    .woocommerce.woocommerce-page ul.products li {
+        width: 100%;
+    }
+
+    /* Service Details */
+    .has-thumb.w170 .owl-thumbs .owl-thumb-item {
+        width: 55px !important;
+        height: 50px !important;
+    }
+
+    .has-thumb .owl-thumbs .owl-thumb-item {
+        margin: 15px 15px 0 0;
+    }
+
+    .has-thumb .owl-theme .owl-thumbs {
+        text-align: center;
+    }
+
+    /* Cart */
+    .cart-form table.shop-table tbody tr .product-name a {
+        font-size: 12px;
+    }
+
+    .woocommerce .cart-form .shop-table tr > td.product-thumbnail img {
+        width: 50px !important;
+        height: 50px !important;
+        margin: 16px  15px 0 0 !important;
+    }
+
+    .cart-form table.shop-table tr td.product-quantity {
+        padding-top: 5px !important;
+    }
+
+    #coupon_code {
+        width: 140px !important;
+        padding-left: 24px !important;
+        margin-right: 15px !important;
+    }
+
+    .coupon > button {
+        padding: 0 10px !important;
+    }
+
+    .main-shopping-cart {
+        padding-bottom: 60px;
+    }
+}
